@@ -1,15 +1,15 @@
 ﻿{
-    "CodeDemande" :  "402031800963",
-    "DateCreation" :  "15:7:34 16/05/2018",
-    "Demandeur" :  "fidia audit",
-    "EtatDemande" :  "mosallam",
-    "EtatDemande_En": "Dilevered",
-    "EtatDemande_Fr": "Délivré",
-    "EtatDemande_Es": "Entregado",
-    "Juridiction" :  "TPI OUJDA",
-    "Juridiction_En": "TPI OUJDA ENGLISH",
-    "Juridiction_Es": "TPI OUJDA ES",
-    "Juridiction_Fr": "TPI OUJDA FR",
-    "idDetailDemande" :  34,
-    "NumDemande" :  45555
+  "CodeDemande": "402031800963",
+  "DateCreation": "15:7:34 16/05/2018",
+  "Demandeur": "fidia audit",
+  "EtatDemande": "mosallam",
+  "EtatDemande_En": "Dilevered",
+  "EtatDemande_Fr": "Délivré",
+  "EtatDemande_Es": "Entregado",
+  "Juridiction": "TPI OUJDA",
+  "Juridiction_En": "TPI OUJDA ENGLISH",
+  "Juridiction_Es": "TPI OUJDA ES",
+  "Juridiction_Fr": "TPI OUJDA FR",
+  "idDetailDemande": 34,
+  "NumDemande": 45555
 }
